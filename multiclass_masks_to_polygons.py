@@ -11,9 +11,9 @@ output_dir =   # Output directory: Example- './project/labels'
 
 # Define the classes and their corresponding color values in the order of the .yaml file
 classes = [
-    ((52, 209, 183), 'skylight'),
-    ((204, 153, 51), 'vent pipe'),
-    ((133, 192, 11), 'wind-driven turbine exhaust')
+    ((52, 209, 183), 'apple'),
+    ((204, 153, 51), 'orange'),
+    ((133, 192, 11), 'banana')
     # Above is an example of some classes used
     # Format: ((R,G,B), 'name of class') Make sure ordering matches your .yaml file.
 ]
