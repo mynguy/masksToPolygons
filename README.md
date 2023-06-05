@@ -10,7 +10,8 @@ Handling Multiple Classes:
 
 This script is capable of handling multiple classes in the segmentation masks.
 It associates each class with a specific RGB color value, allowing for accurate identification and conversion of masks into polygon data.
-The classes list in the script should be modified to match the classes and their corresponding color values present in your segmentation masks.
+The classes list in the script should be modified to match the classes and their corresponding color values present in your segmentation masks. 
+
 RGB Color-Based Classification:
 
 The script converts the RGB color values of each pixel in the mask image to tuples.
