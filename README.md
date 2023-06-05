@@ -33,9 +33,9 @@ This enables the script to extract polygons for each class based on their respec
 For example:
 ```python:
 classes = [
-    ((52, 209, 183), 'skylight'),
-    ((204, 153, 51), 'vent pipe'),
-    ((133, 192, 11), 'wind-driven turbine exhaust')
+    ((52, 209, 183), 'apple'),
+    ((204, 153, 51), 'orange'),
+    ((133, 192, 11), 'banana')
     # Add more classes if needed
 ]
 ```
