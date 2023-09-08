@@ -1,6 +1,6 @@
 # Mask to Polygon Conversion Script
 
-This script is designed to help users convert segmentation masks created through annotation tools, such as CVAT, into polygon .txt files in YOLO format. These files can be used to train models in YOLOv8 for image segmentation tasks.
+This script is tailored to assist CVAT users in converting segmentation masks created within the CVAT annotation tool into polygon .txt files formatted for YOLO. These files are specifically designed to facilitate training models with YOLOv8 for image segmentation tasks.
 
 ## What is YOLOv8?
 YOLOv8 is a state-of-the-art object detection and image segmentation algorithm. It stands for "You Only Look Once" and version 8 refers to the specific iteration of the YOLO algorithm. YOLOv8 is known for its speed and accuracy in detecting and segmenting objects within images.
@@ -55,4 +55,4 @@ Please refer to the comments within the script for more detailed explanations of
 
 Note: Make sure to have a good understanding of the YOLOv8 algorithm and how it handles image segmentation before using this script.
 
-By: My Nguyen with support from @computervisioneng and ChatGPT
+By: My Nguyen with support from @computervisioneng youtube channel
